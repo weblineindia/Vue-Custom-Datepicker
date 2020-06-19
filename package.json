@@ -1,0 +1,23 @@
+{
+  "name": "vue-weblineindia-date-picker",
+  "version": "1.0.0",
+  "description": "A Vue Date picker component to select date.",
+  "main": "./lib/Calendar.vue",
+  "author": "weblineindia",
+  "repository": "https://github.com/weblineindia/Vue-Datepicker",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-datepicker",
+    "calendar",
+    "date-picker",
+    "datepicker ",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ],
+  "license": "MLT",
+  "dependencies": {
+    "primeicons": "^4.0.0",
+    "primevue": "^2.0.0-rc.1"
+  }
+}
